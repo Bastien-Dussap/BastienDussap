@@ -35,7 +35,7 @@ Invited talks
     <li><a href="https://2023.ecmlpkdd.org/">ECML/PKDD 2023</a>, <i>Label Shift Quantification with Robustness Guarantees via Distribution Feature Matching (RT Track – Best Student Paper)
     </i>(<a href="/assets/files/slides/BastienDussap - ECML.pdf">slides</a>)</li>
     <li>Workshop 
-    <a href=https://project.inria.fr/fastbig/stats-workshop-october-19th-2023>Efficient Statistical Testing for high-dimensional model (FAST-BIG)</a> (<a href="/assets/files/slides/BastienDussap - Workshop FASTBIG 2023.pdf">slides</a>)
+    <i><a href="https://project.inria.fr/fastbig/stats-workshop-october-19th-2023">Efficient Statistical Testing for high-dimensional model (FAST-BIG)</a></li> (<a href="/assets/files/slides/BastienDussap - Workshop FASTBIG 2023.pdf">slides</a>)
     </li>
 </ul>
 
