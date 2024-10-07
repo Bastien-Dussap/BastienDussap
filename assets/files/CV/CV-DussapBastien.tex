@@ -40,14 +40,14 @@
 \usepackage[english]{babel}  % FIXME: using spanish breaks moderncv
 
 % personal data
-\name{Bastien}{Dussap}
-\title{PhD student in mathematics}                               % optional, remove / comment the line if not wanted
+\name{Bastien}{Dussap, phd}
+\title{Data Scientist}                               % optional, remove / comment the line if not wanted
 \born{17 June 1998}                                 % optional, remove / comment the line if not wanted
 %\address{street and number}{postcode city}{country}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
 \phone[mobile]{07~77~99~21~57}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
 %\phone[fixed]{+2~(345)~678~901}
 %\phone[fax]{+3~(456)~789~012}
-\email{bastien.dussap@inria.fr} % optional, remove / comment the line if not wanted
+\email{bastiendussapapb@gmail.com} % optional, remove / comment the line if not wanted
 \homepage{bastiendussap.github.io}  % optional, remove / comment the line if not wanted
 
 % Social icons
@@ -105,33 +105,45 @@
 }
 
 \section{PhD thesis}
-\cvitem{Title}{\emph{Cytometric data comparison}}
+\cvitem{Title}{\emph{A unified framework for label shift quantification}}
 \cvitem{Supervisors}{Gilles Blanchard and Marc Glisse}
 \cvitem{Abstract}{
-	PhD thesis in partnership with Metafora biosystem a bio-engineering compary. The company has created a software, Metaflow, that allows automatic analysis of flow cytometry data. My work focuses on the use of machine learning models to transfer the analysis performed on one sample to a new unanalysed one. We rely on Reproducing Kernel Hilbert space to embed and store high-dimensional features in Euclidian Space. We use these representations to, firstly, estimate the proportions of each population in a new sample, and secondly to automatically name the cluster obtained by metaflow.
+	In supervised classification, it is not uncommon that the information sought is not local, meaning the label associated to each data point, but global: obtaining the proportions of the different labels within the sample directly. 
+	This problem, which we have chosen to refer to as label shift quantification but which is also known by many other names in the literature, has seen a proliferation of publications since the mid-2000s.
+	However, these works often proceed in parallel, coming from communities with limited dialogue, resulting in a scattered bibliography.
+	In this manuscript, we first provide an overview of these diverse works with a twofold aim: first, to bridge the gap between these communities by presenting results from different research areas, and on the other hand, contextualise the subsequent work, particularly focusing on efforts to unify methods.
+	Second, we propose a framework that unifies several classical methods from the literature based on mean vectorisations. We examine the theoretical guarantees of these methods and demonstrate their robustness when the central assumption of label shift is violated. We also extend this work by focusing on kernel-based vectorisations using covariance information rather than just the mean.
+	Finally, we explore the use of a specific vectorisation based on Random Fourier Features in applications related to flow cytometry.
 }
 
+\newpage
 \section{Experience}
 %\subsection{Vocational}
 %\cventry{year--year}{Job title}{Employer}{City}{}{General description no longer than 1--2 lines.\newline{}
 %Detailed achievements:
 %\begin{itemize}
-%\item Achievement 1
-%\item Achievement 2 (with sub-achievements)
-%  \begin{itemize}
-%  \item Sub-achievement (a);
-%  \item Sub-achievement (b), with sub-sub-achievements (don't do this!);
-%    \begin{itemize}
-%    \item Sub-sub-achievement i;
-%    \item Sub-sub-achievement ii;
-%    \item Sub-sub-achievement iii;
-%    \end{itemize}
-%  \item Sub-achievement (c);
-%  \end{itemize}
-%\item Achievement 3
-%\item Achievement 4
+	%\item Achievement 1
+	%\item Achievement 2 (with sub-achievements)
+	%  \begin{itemize}
+	%  \item Sub-achievement (a);
+	%  \item Sub-achievement (b), with sub-sub-achievements (don't do this!);
+	%    \begin{itemize}
+	%    \item Sub-sub-achievement i;
+	%    \item Sub-sub-achievement ii;
+	%    \item Sub-sub-achievement iii;
+	%    \end{itemize}
+	%  \item Sub-achievement (c);
+	%  \end{itemize}
+	%\item Achievement 3
+	%\item Achievement 4
 %\end{itemize}}
 %\cventry{year--year}{Job title}{Employer}{City}{}{Description line 1\newline{}Description line 2\newline{}Description line 3}
+
+\cventry{2024--}{Data Scientist}{Metafora Biosystems}{}{}{	
+	Data Scientist at Metafora Biosystems.
+}
+
+
 \subsection{Teaching}
 \cventry{2022--2023}{Mathematics for Management}{IUT Sceaux}{L1 B.U.T GEA}{}{	
 	Taught by Patrick Pamphile.

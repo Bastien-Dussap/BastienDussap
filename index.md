@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Bastien Dussap
-subtitle: Researcher in applied mathematics at Paris Saclay University.
+subtitle: Data Scientist at Metafora Biosystems
 ---
 
 # About me
 
-I am a PhD student in Machine Learning / Statistic at [University Paris-Saclay](https://www.universite-paris-saclay.fr/en) at the [institut de mathématiques d'orsay](https://www.imo.universite-paris-saclay.fr/fr/la-recherche/probabilites-et-statistiques/) under the supervision of [Gilles Blanchard](https://www.imo.universite-paris-saclay.fr/~gilles.blanchard/) and Marc Glisse. I'm also part of the [Datashape](https://team.inria.fr/datashape/) team (INRIA).  
+Former PhD student in Machine Learning / Statistic at [University Paris-Saclay](https://www.universite-paris-saclay.fr/en) at the [institut de mathématiques d'orsay](https://www.imo.universite-paris-saclay.fr/fr/la-recherche/probabilites-et-statistiques/) under the supervision of [Gilles Blanchard](https://www.imo.universite-paris-saclay.fr/~gilles.blanchard/) and Marc Glisse. Was also part of the [Datashape](https://team.inria.fr/datashape/) team (INRIA).  
 My thesis is in collaboration with [Metafora](https://www.metafora-biosystems.com/) a biotechnology company based at the Cochin Hospital.
 
-My thesis deals with the comparison of cytometric datasets. Metafora has developped a software ([Metaflow](https://www.metafora-biosystems.com/metaflow/)), that allows automatic analysis of flow cytometry data. My work focuses on the use of machine learning models to transfer the analysis performed on one sample to a new unanalysed one. We rely on Reproducing Kernel Hilbert space to embed and store high-dimensional features in Euclidian Space. We use these representations to, firstly, estimate the proportions of each population in a new sample, and secondly to automatically name the cluster obtained by the software.
+My thesis dealt with the comparison of cytometric datasets. Metafora has developped a software ([Metaflow](https://www.metafora-biosystems.com/metaflow/)), that allows automatic analysis of flow cytometry data. My work focuses on the use of machine learning models to transfer the analysis performed on one sample to a new unanalysed one. We rely on Reproducing Kernel Hilbert space to embed and store high-dimensional features in Euclidian Space. We use these representations to, firstly, estimate the proportions of each population in a new sample, and secondly to automatically name the cluster obtained by the software.
 
 ## Research Interest
 
