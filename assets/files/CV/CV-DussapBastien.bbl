@@ -1,9 +1,10 @@
 \begin{thebibliography}{1}
 
-\bibitem{dussap2023label}
+\bibitem{dussap2023label.ecml}
 Bastien Dussap, Gilles Blanchard, and Badr-Eddine Ch{\'e}rief-Abdellatif.
-\newblock Label shift quantification with robustness guarantees via
-  distribution feature matching.
-\newblock {\em arXiv preprint arXiv:2306.04376}, 2023.
+\newblock Label shift quantification with robustness guarantees
+  via distribution feature matching.
+\newblock In {\em Machine Learning and Knowledge Discovery in Databases:
+  Research Track}, pages 69--85. Springer Nature Switzerland, 2023.
 
 \end{thebibliography}
