@@ -36,12 +36,13 @@ Complete list on [ArXiv](https://arxiv.org/a/dussap_b_1.html).
 <ul>
     <li>Label Shift Quantification with Robustness Guarantees via Distribution Feature Matching (with G.Blanchard and B.Chérief-Abdellatif) 
     <a href="https://arxiv.org/abs/2306.04376">ArXiv preprint</a> and
-    <a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_5#citeas">Journal version</a>.
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-43424-2_5#citeas">Journal version</a>.</li>
 </ul>
 
 ## Talks
 
 Invited talks
+
 <ul>
     <li>DataShape Seminar, 2024 (<a href="/assets/files/slides/Porquerolles2024.pdf">slides</a>)</li>
     <li>Journées de Statistique de la Société Francaise de Statistique, 2024 (<a href="/assets/files/slides/JdS2024.pdf">slides</a>)</li></li>
