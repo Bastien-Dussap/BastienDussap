@@ -55,12 +55,7 @@ Invited talks
     </li>
 </ul>
 
-PhD thesis defence
-
-<ul>
-    <li><a href="/assets/files/slides/Soutenance - BastienDussap.pdf">Slides</a></li>
-</ul>
-
+PhD thesis defence (<a href="/assets/files/slides/Soutenance - BastienDussap.pdf">slides</a>).
 
 
 ## Poster presentations
